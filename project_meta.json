@@ -1,10 +1,17 @@
 {
-  "seq": 39,
   "title": "Privacy-by-Design Framework for an SME Adopting Customer Analytics",
-  "slug": "privacy-by-design-framework-for-an-sme-adopting-custome",
+  "old_slug": "privacy-by-design-framework-for-an-sme-adopting-custome",
+  "slug": "privacy-by-design-analytics",
   "folder": "Privacy_By_Design_Framework_For_An_Sme",
   "kind": "privacy",
-  "body_words": 241,
+  "body_words": 310,
+  "source": "SCI700",
   "project_id": "Project 25",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
